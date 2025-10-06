@@ -8,7 +8,7 @@
 ## 📁 Folder Structure
 
 ```
-fullstack-learning/
+python & django/
 ├── README.md                   # This file - Quick reference guide
 ├── .claude_instructions.md     # Claude CLI context (DON'T DELETE!)
 ├── ROADMAP.md                  # Master progress tracker
