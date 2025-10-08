@@ -1,0 +1,5 @@
+Hello, this is a sample text file!
+This file is used for practicing file handling in Python.
+You can read this file, count words, and manipulate its content.
+File handling is an essential skill for any programmer.
+Keep practicing and you'll master it in no time!
